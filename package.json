@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-zswl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "zswl",
   "main": "dist/index.js",
   "publishConfig": {
@@ -39,5 +39,9 @@
   },
   "dependencies": {
     "form-data": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redmomn/picgo-plugin-zswl"
   }
 }
